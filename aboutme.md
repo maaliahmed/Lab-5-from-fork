@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Completed another Lab
+subtitle: Hopefully well
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm not sure if I'm doing this correctly. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- ""
+- ""
 
 What else do you need?
 
