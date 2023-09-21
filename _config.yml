@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Lab 5 Website
+title: Welcome to my Lab Five Website!
 
 # Your name to show in the footer
 author: Maali Ahmed
@@ -17,7 +17,7 @@ navbar-links:
   About Me: "Just a girl trying to learn R and other class resources."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Get Started: 
+    - Get Started: "getstarted"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -28,7 +28,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: False
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -66,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This is where the footer would go
 
 # --- General options --- #
 
@@ -176,7 +176,7 @@ footer-link-col: "#404040"
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
 #staticman:
-#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository : # GitHub username/repository eg. "lab05.github.io"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
