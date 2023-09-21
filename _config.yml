@@ -19,7 +19,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Get Started: "getstarted"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Table Demo: "table-demo" 
+  Table Demo: "table-demo.md" 
   Author's home: "https://maaliahmed.github.io/lab05.github.io/"
 
 # --- Logo --- #
